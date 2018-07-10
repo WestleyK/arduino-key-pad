@@ -1,6 +1,6 @@
 //# Created by: Westley K
 //# email: westley@sylabs.io
-//# Date: Jul 9, 2018
+//# Date: Jul 10, 2018
 //# Version-1.0
 //# https://github.com/WestleyK/arduino-key-pad
 
@@ -225,7 +225,7 @@ void key_pad_read() {
     pass_code2 += pass_code1;
     pass_up = 0;
   }
-  //Serial.println(pass_code2);
+  Serial.println(pass_code2);
   delay(100);
   if (pass_code2 == "1234") {
     //# when correct code is entered

@@ -6,7 +6,8 @@ No librarys needed. <br>
 Once connected properly, it will print to the Serial Moniter once a button is pressed, <br>
 Defalt code:`1234` <br>
 You can easily change that in the script. <br>
-
+<br>
+Only need 7 pins of the arduino.<br>
 
 <br>
 

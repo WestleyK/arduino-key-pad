@@ -11,6 +11,8 @@ Only need 7 pins of the arduino.<br>
 
 <br>
 
+Nothing...
+
 Better README comming soon!
 
 <br>

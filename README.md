@@ -7,5 +7,9 @@ Once connected properly, it will print to the Serial Moniter once a button is pr
 Defalt code:`1234` <br>
 You can easily change that in the script. <br>
 
+
 <br>
 
+Better README comming soon!
+
+<br>
